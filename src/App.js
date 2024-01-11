@@ -12,6 +12,7 @@ function App() {
 
         <p>Học code react được rồi đó</p>
         <p>Tiêp theo sẽ đẩy code lên Github nhé.</p>
+        <p>Thay đổi file này và đẩy code lên git</p>
         <a
           className="App-link"
           href="https://reactjs.org"
